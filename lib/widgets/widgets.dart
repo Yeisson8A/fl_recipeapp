@@ -1,0 +1,1 @@
+export 'package:fl_recipeapp/widgets/recipe_card.dart';
